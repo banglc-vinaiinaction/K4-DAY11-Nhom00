@@ -10,7 +10,7 @@
 - Tên định danh vai A dùng cho --self: bang
 - Kênh trao đổi nội bộ: Discord, Zalo
 - Đại diện nộp (vai C): Nguyễn Minh Đức (2A202602114), Lê Chí Bằng (2A202602215)
-- Commit chốt bài: b9e2148
+- Commit chốt bài: c7fb94e
 
 ## 2. Ba vai chính
 | Vai | Họ và tên | MSSV | Tên định danh trong mode | Trách nhiệm | Bằng chứng đóng góp |
